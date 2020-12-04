@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Desi Esp</string>
+    <bool name="candet">true</bool>
+    <bool name="fourx">true</bool>
+    <bool name="threex">true</bool>
+    <bool name="twox">false</bool>
+    <bool name="reddot">true</bool>
+    <bool name="hollow">false</bool>
+    <bool name="eightx">true</bool>
+    <bool name="sixx">true</bool>
+</resources>
